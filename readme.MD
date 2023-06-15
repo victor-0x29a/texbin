@@ -1,6 +1,11 @@
 # TexBin
 > Compartilhe seus pensamentos, dicas e afins de forma online!
 
+## Tecnologias utilizadas:
+ - React.JS
+ - Node.JS
+ - TypeScript
+ - MySql
 
 ## Instalação (ambiente de desenvolvimento)
 > Considerando que você já tenha instalado o Node.JS em seu computador.
