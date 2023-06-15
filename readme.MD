@@ -2,9 +2,8 @@
 > Compartilhe seus pensamentos, dicas e afins de forma online!
 
 ## Tecnologias utilizadas:
- - React.JS
- - Node.JS
- - TypeScript
+ - React.JS + Vite + Typescript
+ - Node.JS + Sucrase + Typescript
  - MySql
 
 ## Instalação (ambiente de desenvolvimento)
