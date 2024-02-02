@@ -9,13 +9,13 @@
 Go to folder of back and frontend, and run the command to install all dependencies:
 
 ````
-npm install
+ npm install
 ```
 
 And now, to run:
 
 ```
-npm run dev
+ npm run dev
 ```
 
 
