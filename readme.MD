@@ -1,32 +1,23 @@
 # TexBin
-> Compartilhe seus pensamentos, dicas e afins de forma online!
 
-## Tecnologias utilizadas:
- - React.JS + Vite + Typescript
- - Node.JS + Sucrase + Typescript
- - MySql
+## Requirements:
+ - NodeJS.
+ - MySql.
 
-## Instalação (ambiente de desenvolvimento)
-> Considerando que você já tenha instalado o Node.JS em seu computador.
+## How do i install all dependencies?
 
-```sh
-cd texback
-npm i
-cd ..
-cd texfront
-npm i
+Go to folder of back and frontend, and run the command to install all dependencies:
+
+````
+npm install
 ```
 
-Após isso, instale o MySql, crie um schema de acordo com o padrão que você configurar no arquivo ```texback/.env```.
+And now, to run:
 
-
-```sh
-cd texback
-npm run dev
-cd ..
-cd texfront
+```
 npm run dev
 ```
+
 
 ## Screenshots
 
